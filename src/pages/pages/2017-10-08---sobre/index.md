@@ -1,13 +1,13 @@
 ---
-title: "Sobre a autora"
+title: "Sobre a louca que vos fala"
 layout: page
 path: "/sobre"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Mariana Brito é uma pessoa louca por isso o título “Crazy Woman” que saiu de casa aos 19 e com 20 se mudou para Curitiba, onde atualmente mora com sua namorada maravilinda e seus 3 filhos de quatro patas. 
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)
+Ama comer, séries(em especial Smalville, ela já assistiu q-u-a-t-r-o vezes), comer, gatos, comer e transar!
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+Ela sonha em tornar o mundo melhor com pequenas atitudes, mas sabe que não depende apenas dela, por isso fez o blog para enlouquecer outras pessoas.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+![Família Feliz](./1.jpg)
