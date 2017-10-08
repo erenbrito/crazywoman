@@ -12,7 +12,7 @@ class PostTemplateDetails extends React.Component {
 
     const homeBlock = (
       <div>
-        <Link className="post-single__home-button" to="/">Ver todos</Link>
+        <Link className="post-single__home-button" to="/">Voltar</Link>
       </div>
     );
 
