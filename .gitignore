@@ -1,0 +1,7 @@
+node_modules/
+.cache/
+public/
+npm/
+npm-debug.log
+.eslintcache
+.gatsby-context.js
