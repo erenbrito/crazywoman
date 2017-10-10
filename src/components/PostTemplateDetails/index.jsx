@@ -2,19 +2,14 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Link from 'gatsby-link';
 import moment from 'moment';
+import Sidebar from '../Sidebar';
 import './style.scss';
 
 class PostTemplateDetails extends React.Component {
   render() {
-    const { subtitle, author } = this.props.data.site.siteMetadata;
+    const { author } = this.props.data.site.siteMetadata;
     const post = this.props.data.markdownRemark;
     const tags = post.fields.tagSlugs;
-
-    const homeBlock = (
-      <div>
-        <Link className="post-single__home-button" to="/">Voltar</Link>
-      </div>
-    );
 
     const tagsBlock = (
       <div className="post-single__tags">
@@ -32,8 +27,8 @@ class PostTemplateDetails extends React.Component {
 
     return (
       <div>
-        {homeBlock}
-        <div className="post-single">
+        <Sidebar {...this.props} />
+        <div className="post-single content">
           <div className="post-single__inner">
             <h1 className="post-single__title">{post.frontmatter.title}</h1>
             <div className="post-single__body" dangerouslySetInnerHTML={{ __html: post.html }} />
