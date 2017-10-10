@@ -2,7 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import PostTemplateDetails from '../components/PostTemplateDetails';
-import Disqus from '../components/Disqus/Disqus';
 
 class PostTemplate extends React.Component {
   render() {
@@ -23,7 +22,6 @@ class PostTemplate extends React.Component {
           <meta name="description" content={description} />
         </Helmet>
         <PostTemplateDetails {...this.props} />
-        <Disqus postNode={post} />
       </div>
     );
   }
