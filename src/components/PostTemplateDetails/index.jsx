@@ -2,11 +2,12 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Link from 'gatsby-link';
 import moment from 'moment';
+import Disqus from '../Disqus/Disqus';
 import './style.scss';
 
 class PostTemplateDetails extends React.Component {
   render() {
-    const { subtitle, author } = this.props.data.site.siteMetadata;
+    const { author } = this.props.data.site.siteMetadata;
     const post = this.props.data.markdownRemark;
     const tags = post.fields.tagSlugs;
 
@@ -30,6 +31,12 @@ class PostTemplateDetails extends React.Component {
       </div>
     );
 
+    const commentsBlock = (
+      <div className="post-single__comments">
+        <Disqus postNode={post} />
+      </div>
+    );
+
     return (
       <div>
         {homeBlock}
@@ -44,6 +51,7 @@ class PostTemplateDetails extends React.Component {
           <div className="post-single__footer">
             {tagsBlock}
             <hr />
+            {commentsBlock}
           </div>
         </div>
       </div>
