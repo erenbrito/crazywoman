@@ -4,6 +4,7 @@ import Link from 'gatsby-link';
 import moment from 'moment';
 import Sidebar from '../Sidebar';
 import Disqus from '../Disqus/Disqus';
+import Sidebar from '../Sidebar';
 import './style.scss';
 
 class PostTemplateDetails extends React.Component {
