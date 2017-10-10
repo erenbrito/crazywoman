@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import Link from 'gatsby-link';
 import moment from 'moment';
 import Sidebar from '../Sidebar';
+import Disqus from '../Disqus/Disqus';
 import './style.scss';
 
 class PostTemplateDetails extends React.Component {
@@ -25,6 +26,12 @@ class PostTemplateDetails extends React.Component {
       </div>
     );
 
+    const commentsBlock = (
+      <div className="post-single__comments">
+        <Disqus postNode={post} />
+      </div>
+    );
+
     return (
       <div>
         <Sidebar {...this.props} />
@@ -39,6 +46,7 @@ class PostTemplateDetails extends React.Component {
           <div className="post-single__footer">
             {tagsBlock}
             <hr />
+            {commentsBlock}
           </div>
         </div>
       </div>
