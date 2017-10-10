@@ -1,3 +1,5 @@
 module.exports = {
-  disqusShortname: 'crazywoman'
+  disqusShortname: 'crazywoman',
+  siteUrl: 'https://britomari.github.io',
+  pathPrefix: '/crazywoman'
 };
