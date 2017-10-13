@@ -37,6 +37,7 @@
     "lodash": "^4.17.2",
     "react": "^16.0.0",
     "react-disqus-comments": "^1.1.0",
+    "react-share": "^1.16.0",
     "typeface-roboto": "latest"
   },
   "devDependencies": {

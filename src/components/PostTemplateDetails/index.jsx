@@ -2,13 +2,14 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Link from 'gatsby-link';
 import moment from 'moment';
+import Disqus from '../Disqus';
 import Sidebar from '../Sidebar';
-import Disqus from '../Disqus/Disqus';
-import Sidebar from '../Sidebar';
+import SocialLinks from "../SocialLinks";
 import './style.scss';
 
 class PostTemplateDetails extends React.Component {
   render() {
+    const { slug } = this.props.pathContext;
     const { author } = this.props.data.site.siteMetadata;
     const post = this.props.data.markdownRemark;
     const tags = post.fields.tagSlugs;
@@ -33,6 +34,12 @@ class PostTemplateDetails extends React.Component {
       </div>
     );
 
+    const shareBlock = (
+      <div className="post-single__share">
+        <SocialLinks postPath={slug} postNode={post} />
+      </div>
+    );
+
     return (
       <div>
         <Sidebar {...this.props} />
@@ -47,6 +54,7 @@ class PostTemplateDetails extends React.Component {
           <div className="post-single__footer">
             {tagsBlock}
             <hr />
+            {shareBlock}
             {commentsBlock}
           </div>
         </div>
