@@ -39,7 +39,7 @@ class Sidebar extends React.Component {
     /* eslint-enable jsx-a11y/img-redundant-alt*/
 
     return (
-      <div className="sidebar">
+      <div className="sidebar" data-collapsed={!isHomePage}>
         <div className="sidebar__inner">
           <div className="sidebar__author">
             {authorBlock}

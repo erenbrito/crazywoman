@@ -5,7 +5,7 @@
     width: 100%;
     &__inner {
         position: relative;
-        padding: 25px 20px 0;
+        padding: 25px 20px;
     }
     &__author {
         &-photo {
@@ -39,6 +39,37 @@
     }
 }
 
+@include breakpoint-only-xs {
+    .sidebar {
+        &[data-collapsed="true"] {
+            background: $color-gray-border;
+            .sidebar__inner {
+                lost-utility: clearfix;
+            }
+            .sidebar__author {
+                &-photo {
+                    width: 60px;
+                    height: auto;
+                    float: right;
+                }
+                &-title,
+                &-subtitle {
+                    width: calc(100% - 70px);
+                    @include margin-top(0);
+                    @include margin-bottom(0);
+                }
+                &-subtitle {
+                    font-size: $typographic-xsmall-font-size;
+                }
+            }
+            .sidebar__copyright, 
+            .menu, 
+            .links {
+                display: none;
+            }
+        }
+    }
+}
 @include breakpoint-sm {
     .sidebar {
         lost-column: 5/12;

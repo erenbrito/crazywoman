@@ -20,6 +20,24 @@
 
 @mixin breakpoint-lg {
     @media screen and (min-width: $layout-breakpoint-lg) {
-        @content
+        @content;
+    }
+}
+
+@mixin breakpoint-only-xs {
+    @media screen and (max-width: $layout-breakpoint-sm - 1) {
+        @content;
+    }
+}
+
+@mixin breakpoint-only-sm {
+    @media screen and (min-width: $layout-breakpoint-sm) and (max-width: $layout-breakpoint-md - 1) {
+        @content;
+    }
+}
+
+@mixin breakpoint-only-md {
+    @media screen and (min-width: $layout-breakpoint-md) and (max-width: $layout-breakpoint-lg - 1) {
+        @content;
     }
 }
