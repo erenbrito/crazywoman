@@ -12,4 +12,4 @@ Costumava ter o cabelo quase na bunda(que não tem) e hoje não passa mais de um
 
 Ela sonha em tornar o mundo melhor com pequenas atitudes, mas sabe que não depende apenas dela, por isso fez o blog para enlouquecer outras pessoas.
 
-![Família Feliz](./1.jpg)
+![Família Feliz](https://britomari.github.io/crazywoman/static/9333247ac833a28dd298c0e435374df7-71f9e.jpg)
