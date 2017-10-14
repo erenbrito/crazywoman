@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---contato": [
-      "path---contato-41e1ed441257c129ccc4.js",
-      "path---contato-41e1ed441257c129ccc4.js.map"
+      "path---contato-9a2d66a0ac09fc520977.js",
+      "path---contato-9a2d66a0ac09fc520977.js.map"
     ],
     "component---src-templates-tag-template-js": [
       "component---src-templates-tag-template-js-2fb774e166deefa565ed.js",
@@ -25,29 +25,29 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-78500ddb1828a16a8623.js",
-      "component---src-layouts-index-jsx-78500ddb1828a16a8623.js.map"
+      "component---src-layouts-index-jsx-db73628411b8aa6fff58.js",
+      "component---src-layouts-index-jsx-db73628411b8aa6fff58.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---tags-alo-mundo": [
-      "path---tags-alo-mundo-5a00c1b7864d91376702.js",
-      "path---tags-alo-mundo-5a00c1b7864d91376702.js.map"
+      "path---tags-alo-mundo-e921af21bbd56530ee4c.js",
+      "path---tags-alo-mundo-e921af21bbd56530ee4c.js.map"
     ],
     "component---src-pages-categories-jsx": [
       "component---src-pages-categories-jsx-d4d9f0d8824a43151876.js",
       "component---src-pages-categories-jsx-d4d9f0d8824a43151876.js.map"
     ],
     "path---index": [
-      "path---index-a5f8cec2d124abca22f2.js",
-      "path---index-a5f8cec2d124abca22f2.js.map"
+      "path---index-028493727ff90eb3c517.js",
+      "path---index-028493727ff90eb3c517.js.map"
     ],
     "commons": [
-      "commons-7cb4143a63c351594c19.js",
+      "commons-c4f7729ef8807c2a53e6.js",
       "build-js-styles.css",
-      "commons-7cb4143a63c351594c19.js.map",
+      "commons-c4f7729ef8807c2a53e6.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -59,12 +59,12 @@
       "component---src-pages-404-jsx-84c974e36745ccdcbecf.js.map"
     ],
     "path---posts-alo-mundo": [
-      "path---posts-alo-mundo-b6a4e4ede6786f95519f.js",
-      "path---posts-alo-mundo-b6a4e4ede6786f95519f.js.map"
+      "path---posts-alo-mundo-5e0e84da8ff2179a89a9.js",
+      "path---posts-alo-mundo-5e0e84da8ff2179a89a9.js.map"
     ],
     "component---src-templates-post-template-js": [
-      "component---src-templates-post-template-js-6dd0ddcd023c74995d6e.js",
-      "component---src-templates-post-template-js-6dd0ddcd023c74995d6e.js.map"
+      "component---src-templates-post-template-js-b2eb377b65c237b2fe27.js",
+      "component---src-templates-post-template-js-b2eb377b65c237b2fe27.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -75,9 +75,9 @@
       "component---src-pages-index-jsx-b8fadd3c25c7b3b4fa62.js.map"
     ],
     "app": [
-      "app-58a79071ad269d0b00c1.js",
+      "app-c7467b78e6d3bc44a6c7.js",
       "build-js-styles.css",
-      "app-58a79071ad269d0b00c1.js.map",
+      "app-c7467b78e6d3bc44a6c7.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
@@ -85,12 +85,12 @@
       "component---src-templates-page-template-js-a508b0aa5646ea486451.js.map"
     ],
     "path---tags-sobre-mim": [
-      "path---tags-sobre-mim-9fdd2cbc4b66221a59a6.js",
-      "path---tags-sobre-mim-9fdd2cbc4b66221a59a6.js.map"
+      "path---tags-sobre-mim-9f078206849cc84b26e5.js",
+      "path---tags-sobre-mim-9f078206849cc84b26e5.js.map"
     ],
     "path---sobre": [
-      "path---sobre-c0fed802fe4e352fa515.js",
-      "path---sobre-c0fed802fe4e352fa515.js.map"
+      "path---sobre-d0988881d2fcb3b42885.js",
+      "path---sobre-d0988881d2fcb3b42885.js.map"
     ],
     "path---404": [
       "path---404-7f5794cf89fbdcbd2e3d.js",
