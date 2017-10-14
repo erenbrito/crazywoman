@@ -5,13 +5,15 @@ import Link from 'gatsby-link';
 import Menu from '../Menu';
 import Links from '../Links';
 import profilePic from '../../pages/photo.jpg';
+import config from '../../../data/SiteConfig';
 import './style.scss';
 
 class Sidebar extends React.Component {
   render() {
     const { location } = this.props;
     const { title, subtitle, author, copyright, menu } = this.props.data.site.siteMetadata;
-    const isHomePage = get(location, 'pathname', '/') === '/';
+    const pathname = get(location, 'pathname', '/');
+    const isHomePage = pathname === '/' || pathname === `${config.pathPrefix}/`;
 
     /* eslint-disable jsx-a11y/img-redundant-alt*/
     const authorBlock = (
