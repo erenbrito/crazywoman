@@ -1,7 +1,7 @@
 module.exports = {
-  pathPrefix: '/crazywoman',
+  pathPrefix: '/',
   siteMetadata: {
-    url: 'https://britomari.github.io/crazywoman',
+    url: 'https://crazywoman.top',
     title: 'Crazy Woman',
     subtitle: 'Enlouqueça para encontrar a lucidez.',
     copyright: '© Todos os direitos reservados',
