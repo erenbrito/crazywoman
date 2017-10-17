@@ -11,3 +11,9 @@ before_script:
   - "npm install --global gatsby"
 script:
   - "npm run deploy"
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $ghtoken
+  on:
+    branch: master
