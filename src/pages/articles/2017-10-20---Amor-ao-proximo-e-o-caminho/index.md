@@ -9,7 +9,7 @@ tags:
   - "Amor"
   - "Inspirações"
   - "Deus"
-description: ""
+description: "Não adianta você só falar sobre amor se você não o pratica, se você não o espalha e cultiva dentro de você. \"Ahh mas como assim?\"..."
 ---
 
 Não adianta você só falar sobre amor se você não o pratica, se você não o espalha e cultiva dentro de você.
