@@ -41,12 +41,14 @@ class Sidebar extends React.Component {
     /* eslint-enable jsx-a11y/img-redundant-alt*/
 
     return (
-      <div className="sidebar" data-collapsed={!isHomePage}>
+      <div className="sidebar">
+       <input className="sidebar__checkbox" type="checkbox" id="sidebar-toggle"/>
         <div className="sidebar__inner">
+          <label className="sidebar__toggle" htmlFor="sidebar-toggle"><span></span></label>
           <div className="sidebar__author">
             {authorBlock}
           </div>
-          <div>
+          <div className="sidebar__outer">
             <Menu data={menu} />
             <Links data={author} />
             <p className="sidebar__copyright">

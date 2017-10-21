@@ -3,6 +3,12 @@
 
 .sidebar {
     width: 100%;
+    background: $bg-color-primary;
+
+    &__checkbox, 
+    &__toggle {
+        display: none;
+    }
     &__inner {
         position: relative;
         padding: 25px 20px;
@@ -20,10 +26,10 @@
             @include line-height(1.125);
             @include margin(.5, 0, .5, 0);
             &-link {
-                color: $color-base;
+                &,
                 &:hover,
                 &:focus {
-                    color: $color-base;
+                    color: $color-white;
                 }
             }
         }
@@ -40,32 +46,106 @@
 }
 
 @include breakpoint-only-xs {
+    body{
+        padding-top: 80px;
+    }
+
     .sidebar {
-        &[data-collapsed="true"] {
-            background: $color-gray-border;
-            .sidebar__inner {
-                lost-utility: clearfix;
-            }
-            .sidebar__author {
-                &-photo {
-                    width: 60px;
-                    height: auto;
-                    float: right;
-                }
-                &-title,
-                &-subtitle {
-                    width: calc(100% - 70px);
-                    @include margin-top(0);
-                    @include margin-bottom(0);
-                }
-                &-subtitle {
-                    font-size: $typographic-xsmall-font-size;
-                }
-            }
-            .sidebar__copyright, 
-            .menu, 
-            .links {
+        box-shadow: 0px 2px 10px rgba(0,0,0,0.25);
+        position: fixed;
+        top: 0;
+        left: 0;
+
+        &__inner {
+            lost-utility: clearfix;
+            padding: 10px 15px;
+        }
+        &__author {
+            padding-left: 50px;
+
+            &-photo {
                 display: none;
+            }
+            &-title,
+            &-subtitle {
+                @include margin-top(0);
+                @include margin-bottom(0);
+            }
+            &-subtitle {
+                font-size: $typographic-xsmall-font-size;
+            }
+        }
+        &__outer {
+            display: block;
+            position: fixed;
+            left: -100%;
+            top: 75px;
+            width: 70%;
+            height: calc(100% - 75px);
+            background: $bg-color-primary;
+            padding: 15px;
+            transition: left 300ms ease;
+        }
+        &__copyright {
+            position: absolute;
+            left: 15px;
+            bottom: 15px;
+        }
+        &__toggle {
+            width: 75px;
+            height: 75px;
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+
+            span {
+                top: 33px;
+                left: 15px;
+
+                &,
+                &:before,
+                &:after {
+                    content: '';
+                    width: 35px;
+                    height: 3px;
+                    display: block;
+                    background: $color-white;
+                    position: absolute;
+                    transition: all 300ms ease;
+                }
+
+                &:before {
+                    top: -10px;
+                    left: 0px;
+                }
+
+                &:after {
+                    top: 10px;
+                    left: 0px;
+                }
+            }
+        }
+        &__checkbox:checked + .sidebar__inner {
+            .sidebar__outer {
+                left: 0;
+            }
+            .sidebar__toggle {
+                span {
+                    background-color: transparent;
+
+                    &:before {
+                        transform: rotate(45deg);
+                        top: 0px;
+                        background: $color-primary;
+                    }
+
+                    &:after {
+                        transform: rotate(-45deg);
+                        top: 0px;
+                        background: $color-primary;
+                    }
+                }
             }
         }
     }
@@ -73,19 +153,21 @@
 @include breakpoint-sm {
     .sidebar {
         lost-column: 5/12;
+        position: relative;
+
+        &:before {
+            content: '';
+            height: 100%;
+            width: 40%;
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: -1;
+            background-color: $bg-color-primary;
+        }
+
         &__inner {
             padding: 30px 20px 0;
-            &:after {
-                background: $color-gray-border;
-                background: linear-gradient(to bottom, $color-gray-border 0%, $color-gray-border 48%, $color-white 100%);
-                position: absolute;
-                content: "";
-                width: 1px;
-                height: 540px;
-                top: 30px;
-                right: -10px;
-                bottom: 0;
-            }
         }
     }
 }
@@ -93,6 +175,12 @@
 @include breakpoint-md {
     .sidebar {
         lost-column: 1/3;
+
+        &:before {
+            width: calc(50% - 190px);
+            min-width: 310px;
+        }
+
         &__inner {
             padding: 40px;
         }

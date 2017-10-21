@@ -3,9 +3,12 @@
  */
 
 // Colors
-$color-base: #222;
+$color-base: #0B273B;
 $color-primary: #5d93ff;
 $color-secondary: #f7a046;
+
+$bg-color-primary: #0B273B;
+$bg-color-secondary: #f2f2f2;
 
 $color-white: lighten($color-base, 100%);
 $color-gray: lighten($color-base, 40%);
