@@ -9,7 +9,7 @@ import '../assets/scss/init.scss';
 class Layout extends React.Component {
   render() {
     const { children } = this.props;
-    const hotjasScript = hotjar.initialize(config.hotjarId, config.hotjarSv);
+    // const hotjasScript = hotjar.initialize(config.hotjarId, config.hotjarSv);
 
     return (
       <div className="layout">
