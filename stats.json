@@ -13,16 +13,16 @@
       "path---tags-amor-6c3396fb58aa1a3bf8f5.js.map"
     ],
     "path---categories": [
-      "path---categories-3090098ff8cd48e8bbe0.js",
-      "path---categories-3090098ff8cd48e8bbe0.js.map"
+      "path---categories-9ec45577f91f13489b98.js",
+      "path---categories-9ec45577f91f13489b98.js.map"
     ],
     "component---src-pages-tags-jsx": [
       "component---src-pages-tags-jsx-bb2c3a8a3ed2d6db7fa0.js",
       "component---src-pages-tags-jsx-bb2c3a8a3ed2d6db7fa0.js.map"
     ],
     "path---tags": [
-      "path---tags-b08bcc92121f7a524d24.js",
-      "path---tags-b08bcc92121f7a524d24.js.map"
+      "path---tags-36a7149165d8615dd82b.js",
+      "path---tags-36a7149165d8615dd82b.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -41,20 +41,24 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---tags-inspiracoes": [
-      "path---tags-inspiracoes-7d6a22a1695f44e4b9c9.js",
-      "path---tags-inspiracoes-7d6a22a1695f44e4b9c9.js.map"
+      "path---tags-inspiracoes-c52b55c457917404851a.js",
+      "path---tags-inspiracoes-c52b55c457917404851a.js.map"
     ],
     "path---tags-alo-mundo": [
       "path---tags-alo-mundo-5a00c1b7864d91376702.js",
       "path---tags-alo-mundo-5a00c1b7864d91376702.js.map"
+    ],
+    "path---tags-erros": [
+      "path---tags-erros-5c5152c275a62dae448e.js",
+      "path---tags-erros-5c5152c275a62dae448e.js.map"
     ],
     "component---src-pages-categories-jsx": [
       "component---src-pages-categories-jsx-d4d9f0d8824a43151876.js",
       "component---src-pages-categories-jsx-d4d9f0d8824a43151876.js.map"
     ],
     "path---index": [
-      "path---index-d5d0fed23222363db6fd.js",
-      "path---index-d5d0fed23222363db6fd.js.map"
+      "path---index-d98265c8f6c972b1a374.js",
+      "path---index-d98265c8f6c972b1a374.js.map"
     ],
     "commons": [
       "commons-10c7b6ce0041d5936398.js",
@@ -91,9 +95,9 @@
       "component---src-pages-index-jsx-b8fadd3c25c7b3b4fa62.js.map"
     ],
     "app": [
-      "app-13936c4296dd820851b5.js",
+      "app-3d460148cc0776e703ef.js",
       "build-js-styles.css",
-      "app-13936c4296dd820851b5.js.map",
+      "app-3d460148cc0776e703ef.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
@@ -108,9 +112,17 @@
       "path---sobre-8b4266e535f1f66e4c7e.js",
       "path---sobre-8b4266e535f1f66e4c7e.js.map"
     ],
+    "path---tags-preconceito": [
+      "path---tags-preconceito-41981dff1c8c6cf842b2.js",
+      "path---tags-preconceito-41981dff1c8c6cf842b2.js.map"
+    ],
     "path---404": [
       "path---404-7f5794cf89fbdcbd2e3d.js",
       "path---404-7f5794cf89fbdcbd2e3d.js.map"
+    ],
+    "path---posts-voces-me-adoeceram-todos-voces": [
+      "path---posts-voces-me-adoeceram-todos-voces-3183126236b1b596179c.js",
+      "path---posts-voces-me-adoeceram-todos-voces-3183126236b1b596179c.js.map"
     ]
   }
 }
