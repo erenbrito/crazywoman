@@ -1,6 +1,6 @@
 ---
 title: Vocês me adoeceram, todos vocês!
-date: "2017-10-27"
+date: "2017-10-27T12:41:37.121Z"
 layout: post
 draft: false
 path: "/posts/voces-me-adoeceram-todos-voces/"

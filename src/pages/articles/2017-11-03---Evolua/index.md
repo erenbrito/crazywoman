@@ -1,6 +1,6 @@
 ---
 title: Evolua
-date: "2017-11-03"
+date: "2017-11-03T12:41:37.121Z"
 layout: post
 draft: false
 path: "/posts/evolua/"
