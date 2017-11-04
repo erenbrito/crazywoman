@@ -30,7 +30,7 @@ class PostTemplateDetails extends React.Component {
 
     const commentsBlock = (
       <div className="post-single__comments">
-        <Disqus postNode={post} />
+        <Disqus postPath={slug} postNode={post} />
       </div>
     );
 

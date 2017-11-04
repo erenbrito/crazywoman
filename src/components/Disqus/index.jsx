@@ -23,12 +23,12 @@ class Disqus extends Component {
     this.setState({ toasts });
   }
   render() {
-    const { postNode } = this.props;
+    const { postNode, postPath } = this.props;
     if (!config.disqusShortname) {
       return null;
     }
     const post = postNode.frontmatter;
-    const url = config.siteUrl + config.pathPrefix + postNode.fields.slug;
+    const url = config.siteUrl + config.pathPrefix + postPath;
     return (
       <ReactDisqusComments
         shortname={config.disqusShortname}
@@ -43,7 +43,8 @@ class Disqus extends Component {
 }
 
 Disqus.propTypes = {
-  postNode: PropTypes.object.isRequired
+  postNode: PropTypes.object.isRequired,
+  postPath: PropTypes.string.isRequired
 };
 
 export default Disqus;
