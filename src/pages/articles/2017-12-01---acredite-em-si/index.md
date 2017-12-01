@@ -24,6 +24,6 @@ Mas o que eu quero dizer realmente é sobre o grande preconceito e até mesmo bu
 
 "*A que ponto pretendo chegar com os relatos acima:*"
 
-Não interessa se é bullyng, preconceito, racismo, homofobia ou qualquer outra coisa, ninguém tem o direito de menosprezar, humilhar, agredir fisicamente e/ou emocionalmente, pelo simples fato que você não é melhor ou pior que ninguém, somos todos iguais e somos livres para fazermos e sermos o que quisermos da maneira que acharmos melhor.
+Não interessa se é bullying, preconceito, racismo, homofobia ou qualquer outra coisa, ninguém tem o direito de menosprezar, humilhar, agredir fisicamente e/ou emocionalmente, pelo simples fato que você não é melhor ou pior que ninguém, somos todos iguais e somos livres para fazermos e sermos o que quisermos da maneira que acharmos melhor.
 
 Então para todas essas pessoas que passam por isso diariamente quero dizer para não se deixar abalar e **acreditar em si**, afinal,  é nossa vida, nossas escolhas e vivemos da maneira que quisermos, mostrem para todos que **somos capazes** e fortes para lutar mais um dia.
