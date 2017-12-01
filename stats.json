@@ -21,8 +21,8 @@
       "path---tags-lgbti-283612e82d149bccb3e6.js.map"
     ],
     "path---categories": [
-      "path---categories-ec0b76f5449dec31f56f.js",
-      "path---categories-ec0b76f5449dec31f56f.js.map"
+      "path---categories-894e3e58c656292df9bb.js",
+      "path---categories-894e3e58c656292df9bb.js.map"
     ],
     "component---src-pages-tags-jsx": [
       "component---src-pages-tags-jsx-bb2c3a8a3ed2d6db7fa0.js",
@@ -33,8 +33,8 @@
       "path---tags-programacao-9be5ccbb1fa2b3e5a5fa.js.map"
     ],
     "path---tags": [
-      "path---tags-35441187df8c69e56186.js",
-      "path---tags-35441187df8c69e56186.js.map"
+      "path---tags-fb3e42dabfa301671e18.js",
+      "path---tags-fb3e42dabfa301671e18.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -61,8 +61,8 @@
       "path---tags-alo-mundo-5a00c1b7864d91376702.js.map"
     ],
     "path---tags-respeito": [
-      "path---tags-respeito-fe90b724a068c514c04e.js",
-      "path---tags-respeito-fe90b724a068c514c04e.js.map"
+      "path---tags-respeito-3185f81f1c250eaecbc7.js",
+      "path---tags-respeito-3185f81f1c250eaecbc7.js.map"
     ],
     "path---tags-erros": [
       "path---tags-erros-ad3ea26bb3cd2eeb44f4.js",
@@ -73,8 +73,8 @@
       "component---src-pages-categories-jsx-d4d9f0d8824a43151876.js.map"
     ],
     "path---index": [
-      "path---index-f56972daf2cb1a5fe2a7.js",
-      "path---index-f56972daf2cb1a5fe2a7.js.map"
+      "path---index-b0118354ba39f42dfe76.js",
+      "path---index-b0118354ba39f42dfe76.js.map"
     ],
     "commons": [
       "commons-10c7b6ce0041d5936398.js",
@@ -93,6 +93,10 @@
     "path---404-html": [
       "path---404-html-7f5794cf89fbdcbd2e3d.js",
       "path---404-html-7f5794cf89fbdcbd2e3d.js.map"
+    ],
+    "path---posts-acredite-em-si": [
+      "path---posts-acredite-em-si-3581c052b12eb9a20b97.js",
+      "path---posts-acredite-em-si-3581c052b12eb9a20b97.js.map"
     ],
     "path---posts-voce-ja-descobriu-o-que-quer-ser-quando-crescer": [
       "path---posts-voce-ja-descobriu-o-que-quer-ser-quando-crescer-99a4f93df624a03d308d.js",
@@ -118,6 +122,10 @@
       "component---src-templates-post-template-js-d3a24566dbccd8fa69c5.js",
       "component---src-templates-post-template-js-d3a24566dbccd8fa69c5.js.map"
     ],
+    "path---tags-bullying": [
+      "path---tags-bullying-18a9c0d34f7fe787927d.js",
+      "path---tags-bullying-18a9c0d34f7fe787927d.js.map"
+    ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
@@ -127,9 +135,9 @@
       "component---src-pages-index-jsx-b8fadd3c25c7b3b4fa62.js.map"
     ],
     "app": [
-      "app-e283f2b1257346f0057a.js",
+      "app-22c5b3dff6dde5f5f5bb.js",
       "build-js-styles.css",
-      "app-e283f2b1257346f0057a.js.map",
+      "app-22c5b3dff6dde5f5f5bb.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
@@ -149,8 +157,8 @@
       "path---tags-carreira-48c8b85ffec6a7e1b616.js.map"
     ],
     "path---tags-preconceito": [
-      "path---tags-preconceito-ee1e65941f2132025e1e.js",
-      "path---tags-preconceito-ee1e65941f2132025e1e.js.map"
+      "path---tags-preconceito-2cce050c5afb07b8ac0d.js",
+      "path---tags-preconceito-2cce050c5afb07b8ac0d.js.map"
     ],
     "path---404": [
       "path---404-7f5794cf89fbdcbd2e3d.js",
