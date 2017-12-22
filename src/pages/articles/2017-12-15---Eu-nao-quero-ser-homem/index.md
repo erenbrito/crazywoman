@@ -19,7 +19,7 @@ Hoje a série de textos é [sobre mim](http://crazywoman.top/tags/sobre-mim/), s
 
 Quando cortei meu cabelo foi o momento em que as pessoas mais devem ter pensado isso, pra quem não sabe eu costumava ter um cabelo quase na bunda e nunca na vida havia cortado (exceto pela vez que meu irmão cortou uma pontinha quando éramos crianças), fora isso, nunca! Cortei e logo de primeira tirei tudo e doei (fica pra um próximo texto sobre a doação do cabelo).
 
-![Meu cabelo antes e depois](./meu-antes-e-depois.jpg)
+![Meu cabelo antes e depois](https://raw.githubusercontent.com/BritoMari/crazywoman/master/src/pages/articles/2017-12-15---Eu-nao-quero-ser-homem/meu-antes-e-depois.jpg)
 
 Acho que a **minha aceitação com meu próprio corpo e gênero é a peça principal do jogo** e não preciso que mais ninguém dite o que tenho e o que quero ser e só cabe a cada um ditar e escolher o seu próprio caminho, e, sinceramente, mesmo que eu quisesse mudar, seria minha vida e de mais ninguém.
 
