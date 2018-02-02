@@ -14,6 +14,9 @@ description: "Quando pergunto isso não quero dizer o seu processo de evolução
 
 Quando pergunto isso não quero dizer o seu processo de evolução de criança para adolescente, mas sim o processo de você encontrar aquela vocação na **vida profissional**. Sua vocação precisa ser algo que te faça bem e se sinta uma pessoa feliz e realizada, não apenas aquela sensação de que está fazendo muito dinheiro, que faça também, mas com amor e carinho por aquilo que está realizando.
 
+![Você pode ser o que quiser!](https://raw.githubusercontent.com/BritoMari/crazywoman/master/src/pages/articles/2017-11-17---Voce-ja-descobriu-o-que-quer-ser-quando-crescer/o-que-voce-quer-ser-quando-crescer.jpg)
+
+
 Eu, lá no ensino médio, tinha várias profissões em mente, mas nenhuma que fazia meu coração acelerar, muitas pessoas já *“nascem”* sabendo o que quer ser quando crescer, outras seguem até o último dia do ensino médio sem ideía do que quer, mas com a pressão de começar algo. Esse foi o meu caso e acabei iniciando a faculdade para uma carreira que nem por um segundo tinha passado por minha mente algum dia: **Direito**, (eu cursava Direito, mas não fazia direito!), fiz quase um ano, a profissão em si é linda, altos conhecimentos que você adquire, sua mente abre, mas não era algo que eu estava fazendo *por amor e sim por obrigação*.
 
 Antes disso eu passei 1 ano e meio fazendo um curso técnico pra área automotiva, eu sou apaixonada pela área, mas pra mim é um apenas hobby mexer com carros e não uma carreira.
