@@ -28,7 +28,9 @@ Vi muitas coisas que passam longe do “certinho” acontecendo dentro da igreja
 
 *Então, você deve estar se perguntando onde quero chegar com esse relato, pois vamos lá:* 
 
-Não depende de outras pessoas, de local ou de nada, apenas depende de você mesmo evoluir e crescer, ver por si só o que é verdadeiro e o que não é, o que te faz bem e o que te faz mal. Se você frequenta um lugar que não te ajuda em nada, saia de lá, pare de fazer algo que está te deixando mal, te impedindo de ver a verdade ou até mesmo te impedindo de crescer. 
+Não depende de outras pessoas, de local ou de nada, apenas depende de você mesmo evoluir e crescer, ver por si só o que é verdadeiro e o que não é, o que te faz bem e o que te faz mal. Se você frequenta um lugar que não te ajuda em nada, saia de lá, pare de fazer algo que está te deixando mal, te impedindo de ver a verdade ou até mesmo te impedindo de crescer.
+
+![Evolua](https://cdn-images-1.medium.com/max/800/1*7wBl30FFZKSF6B7-s8A1Jg.jpeg) 
 
 Tire essas vendas dos olhos um pouquinho, pare de fazer apenas pra **agradar** as pessoas ao teu redor e olhe para as coisas com os seus próprios olhos, questione essas “*regras*” que ditam a você, elas fazem sentido ? O que você acredita pode e deve sempre ser questionado.
 

@@ -12,6 +12,8 @@ tags:
 description: "Não adianta você só falar sobre amor se você não o pratica, se você não o espalha e cultiva dentro de você. \"Ahh mas como assim?\"..."
 ---
 
+![Amor ao próximo é o caminho](https://cdn-images-1.medium.com/max/1000/1*eWUB-ng-FYmJ21h0E8uZNg.jpeg)
+
 Não adianta você só falar sobre amor se você não o pratica, se você não o espalha e cultiva dentro de você.
 
 > "Ahh mas como assim?"

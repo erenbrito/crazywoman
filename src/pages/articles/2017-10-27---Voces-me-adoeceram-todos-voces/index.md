@@ -27,6 +27,8 @@ Ao menos hoje, não darei a vocês o prazer de me odiar, não vou odiar minhas i
 O inferno são os outros, e os outros são vocês.*
 **- Hilarina Marino**
 
+![Vocês me adoeceram, todos vocês](https://cdn-images-1.medium.com/max/800/1*GrbHdubpYn-9ltjkO7K-vw.jpeg)
+
 Agora pare por um minuto e reflita. 
 
 No meu primeiro texto de boas vindas eu disse, o seguinte: “**vim aqui com o intuito de tentar mudar o mundo em pequenos detalhes, sei que pra mudar o mundo inteiramente não depende apenas de mim, mas de todos nós!**”
